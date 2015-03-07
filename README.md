@@ -1,1 +1,1 @@
-this repository collects some notes about python in my daily life
+### this repository collects some notes about python in my daily life
